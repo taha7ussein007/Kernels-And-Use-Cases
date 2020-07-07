@@ -6,4 +6,4 @@
 - Loan Analysis
 - Quora Questions Similarity
 - Redefining Cancer Treatment
-
+- Deep Fake and Real News using Unsupervised Model
